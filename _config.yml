@@ -305,3 +305,5 @@ search:
 # Less渲染
 less:
   compress: true
+
+theme: jekyll-theme-modernist
